@@ -128,3 +128,7 @@ body {
   width: 100%;
   background-size: cover;
 }
+
+a {
+  margin-left: 200px;
+}
