@@ -1,0 +1,130 @@
+.city {
+  padding: 5px;
+  margin-top: 100px;
+  margin-left: 620px;
+}
+
+#criteria {
+  color: rgb(71, 69, 69);
+  margin-left: 700px;
+  margin-bottom: 0px;
+  margin-top: -100px;
+}
+
+h1 {
+  font-size: 25px;
+  margin-left: 0;
+}
+h2 {
+  font-size: 12px;
+  color: grey;
+}
+h3 {
+  font-size: 20px;
+  margin-left: 0;
+}
+
+h4 {
+  font-size: 16px;
+  color: rgb(71, 69, 69);
+}
+h5 {
+  font-size: 16px;
+  color: rgb(71, 69, 69);
+  margin-left: 220px;
+}
+
+.heading {
+  margin-left: -20px;
+  margin-top: -10px;
+  font-size: 22px;
+}
+.heading2 {
+  margin-left: -640px;
+  font-size: 14px;
+}
+.heading4 {
+  margin-left: 0px;
+  margin-top: -10px;
+  font-size: 17px;
+}
+.heading5 {
+  margin-left: -640px;
+  font-size: 18px;
+}
+
+#header1 {
+  font-size: 16px;
+  margin-left: 200px;
+  margin-top: 10px;
+}
+
+#header2 {
+  font-size: 16px;
+  margin-left: 200px;
+  margin-top: 10px;
+  padding: 20px;
+}
+#header3 {
+  font-size: 16px;
+  margin-left: 200px;
+  margin-top: 10px;
+}
+
+.button {
+  margin-top: 0;
+  padding: 3px;
+}
+
+.time1 {
+  margin-left: 50px;
+}
+
+.sun1 {
+  padding-left: 250px;
+  padding-right: 260px;
+}
+.sun2 {
+  padding-left: 230px;
+  padding-right: 250px;
+}
+.sun3 {
+  padding-left: 250px;
+  padding-right: 250px;
+}
+.sun4 {
+  padding-left: 270px;
+  padding-right: 240px;
+}
+.sun5 {
+  padding-left: 250px;
+  padding-right: 250px;
+}
+.sun6 {
+  padding-left: 260px;
+  padding-right: 250px;
+}
+.sun7 {
+  padding-left: 260px;
+  padding-right: 250px;
+}
+
+.mainimg {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+  margin-top: -130px;
+  margin-bottom: 30px;
+}
+.temperature {
+  font-size: larger;
+  margin-bottom: -100;
+  margin-top: -10px;
+  margin-left: -640px;
+  margin-bottom: 0;
+}
+
+body {
+  width: 100%;
+  background-size: cover;
+}
