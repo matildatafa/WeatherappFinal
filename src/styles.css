@@ -149,3 +149,7 @@ body {
 .active:hover {
   text-decoration: none;
 }
+
+#github-link {
+  margin-left: 200px;
+}
