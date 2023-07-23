@@ -137,6 +137,15 @@ body {
 
 #units {
   position: relative;
-  font-size: 16px;
+  font-size: 18px;
   top: -17px;
+}
+
+.active {
+  color: rgb(33, 33, 33);
+  cursor: default;
+}
+
+.active:hover {
+  text-decoration: none;
 }
